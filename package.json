@@ -53,6 +53,7 @@
         "react-dom": "^16.13.1 || ^17.0.0 || ^18.0.0"
     },
     "dependencies": {
-        "@babel/runtime": "^7.22.5"
+        "@babel/runtime": "^7.22.5",
+        "prop-types": "^15.8.1"
     }
 }
